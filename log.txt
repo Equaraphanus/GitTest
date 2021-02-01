@@ -1,4 +1,6 @@
 $ git log --format=oneline
+729f760dac09d279f59747e086816a6f8e9f901a Merge branch 'master' into with-log
+128f4ac303f2e60d5109f224b74039954b601192 Add log.txt
 4f6d835ed2dc2e85ebd5017beff59bd0c6071c3b Add gitignore
 e133ee779a58489ecb047197132be46e5f7b5786 Use changes from branch "beta" to resolve merge conflict
 8cd31833971203a223dc9750e379587b7b947930 Add a commit in branch "beta"
