@@ -1,0 +1,5 @@
+# Ignore VIM swap files
+.*.sw?
+
+# Ignore commit message temp file
+message.txt
