@@ -1,0 +1,7 @@
+$ git log --format=oneline
+4f6d835ed2dc2e85ebd5017beff59bd0c6071c3b Add gitignore
+e133ee779a58489ecb047197132be46e5f7b5786 Use changes from branch "beta" to resolve merge conflict
+8cd31833971203a223dc9750e379587b7b947930 Add a commit in branch "beta"
+b79fd3b61902064670d1d74d9a8c82ce735773ce Add a commit in branch "alpha"
+6eeedc4917fef94bde9d9a755cf4e332a5278c79 Correct "First commit" to "Initial commit"
+85408fd2620bfe3381b2a04d854a5a868a7a90fc Initial commit
